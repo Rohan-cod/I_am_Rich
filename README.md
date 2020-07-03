@@ -1,5 +1,5 @@
 # I am Rich
-I am Rich IOS App.
+I am Rich IOS App 💎.
 
 
 ## Screenshots
